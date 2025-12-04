@@ -43,10 +43,7 @@ Aplikasi GREST memperoleh data dari beberapa sumber berikut:
 ### 🖼️ Tangkapan Layar
 
 **Halaman Home**  
-![home](https://github.com/user-attachments/assets/ebf952c6-8ef5-477b-926a-45d25e9ff7ae)
-
-**Google Maps View**  
-![gmaps](https://github.com/user-attachments/assets/3ff8c9ea-e19a-443c-9874-fe657b4a27a8)
+![home](https://github.com/user-attachments/assets/ebf952c6-8ef5-477b-926a-45d25e9ff7ae) **Google Maps View**  ![gmaps](https://github.com/user-attachments/assets/3ff8c9ea-e19a-443c-9874-fe657b4a27a8)
 
 **Logo / Branding GREST**  
 <img width="765" height="734" alt="grest" src="https://github.com/user-attachments/assets/744f552a-5601-4d1f-8131-8a90a0363f3c" />
@@ -62,7 +59,8 @@ Aplikasi GREST memperoleh data dari beberapa sumber berikut:
 
 
 **Halaman Analisis GEE**  
-![gee](./assets/images/gee.png)
+![gee](https://github.com/user-attachments/assets/4a41ad73-8a16-4f14-9010-44888177c674)
 
 **Peta WebView (Sebaran Ruang Hijau)**  
-![webview](./assets/images/webview.png)
+![webview](https://github.com/user-attachments/assets/44dfd652-e9ae-420e-9ece-a725b0aaaf51)
+
