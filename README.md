@@ -43,7 +43,9 @@ Aplikasi GREST memperoleh data dari beberapa sumber berikut:
 ### 🖼️ Tangkapan Layar
 
 **Halaman Home**  
-![home](https://github.com/user-attachments/assets/ebf952c6-8ef5-477b-926a-45d25e9ff7ae) **Google Maps View**  ![gmaps](https://github.com/user-attachments/assets/3ff8c9ea-e19a-443c-9874-fe657b4a27a8)
+![home](https://github.com/user-attachments/assets/ebf952c6-8ef5-477b-926a-45d25e9ff7ae) 
+**Google Maps View**  
+![gmaps](https://github.com/user-attachments/assets/3ff8c9ea-e19a-443c-9874-fe657b4a27a8)
 
 **Logo / Branding GREST**  
 <img width="765" height="734" alt="grest" src="https://github.com/user-attachments/assets/744f552a-5601-4d1f-8131-8a90a0363f3c" />
