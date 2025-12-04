@@ -42,23 +42,24 @@ Aplikasi GREST memperoleh data dari beberapa sumber berikut:
 
 ### 🖼️ Tangkapan Layar
 
+**Halaman Home**  
+![home](https://github.com/user-attachments/assets/ebf952c6-8ef5-477b-926a-45d25e9ff7ae)
+
 **Google Maps View**  
-![gmaps](./assets/images/gmaps.png)
+![gmaps](https://github.com/user-attachments/assets/3ff8c9ea-e19a-443c-9874-fe657b4a27a8)
 
 **Logo / Branding GREST**  
-![grest](./assets/images/grest.png)
-
-**Halaman Home**  
-![home](./assets/images/home.png)
+<img width="765" height="734" alt="grest" src="https://github.com/user-attachments/assets/744f552a-5601-4d1f-8131-8a90a0363f3c" />
 
 **Halaman Profil**  
-![profile](./assets/images/profile.png)
+![profile](https://github.com/user-attachments/assets/fd80bc62-40d8-41a7-ad78-2907ca835f62)
 
 **Form Input Data**  
-![input](./assets/images/input.png)
+![input](https://github.com/user-attachments/assets/b76ba441-59aa-4962-a7a4-c4f858b1496b)
 
 **Daftar Data (List View)**  
-![list](./assets/images/list.png)
+![list](https://github.com/user-attachments/assets/510f4fc1-fb49-44e6-9396-75530798e0c6)
+
 
 **Halaman Analisis GEE**  
 ![gee](./assets/images/gee.png)
